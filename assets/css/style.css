@@ -103,3 +103,45 @@ h1, h2, h3, h4, h5, h6 {
 #hero strong {
     color: var(--secondary-color);
 }
+
+/* About section */
+
+#about {
+    background-color: var(--white);
+    padding: 4rem 0;
+    font-size: 1.1rem;
+}
+
+#about h2 {
+    font-family: var(--primary-font);
+    font-weight: 600;
+    margin-bottom: 3rem;
+    color: var(--secondary-color);
+}
+
+#about img {
+    border: 3px solid var(--primary-color);
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+#about ul {
+    padding-left: 20px;
+    margin: 1.5rem 0;
+}
+
+#about li {
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 10px;
+    color: var(--secondary-color);
+    font-family: var(--secondary-font);
+}
+
+#about p {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+   
+}
+
