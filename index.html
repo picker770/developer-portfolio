@@ -176,13 +176,13 @@
      <!-- Contact Section -->
 
      <footer id="contact" class="container">
-      <div class="row justify-content-center">
+      <div class="row justify-content-center px-3">
         <div class="col-12 text-center my-4">
           <h2 class="display-5">Get In Touch</h2>
           <p class="mt-4">
             I am currently available for part-time, full-time , internship related opportunities. If you have a project in mind or want to collaborate, feel free to reach out!
           </p>
-          <div>
+          <div class="mb-4">
             <a href="mailto:abc.email@portfolio.com" class="btn btn-outline-primary me-2">
               Email Me
             </a>
@@ -194,6 +194,31 @@
             </a>
           </div>
         </div>
+
+        <!-- Contact Form -->
+         <div class="col-12 col-md-10 col-lg-8 mb-4">
+           <from class="row g-3 px-3">
+            <div class="col-lg-4">
+             <label for="full-name" class="form-label">Full Name</label>
+             <input type="text" class="form-control" id="full-name" required>
+             </div>
+             <div class="col-lg-4">
+             <label for="phonenumber" class="form-label">Phone number</label>
+             <input type="tel" class="form-control" id="phonenumber">
+             </div>
+             <div class="col-lg-4">
+             <label for="email" class="form-label">Email</label>
+             <input type="email" class="form-control" id="email" required>
+             </div>
+             <div class="col-12">
+             <label for="message" class="form-label">Message</label>
+             <textarea class="form-control" id="message" rows="3" required></textarea>
+             </div>
+             <div class="col-12">
+               <button type="submit" class="btn btn-primary custom-button">Send Message</button>
+             </div>
+           </from>
+         </div>
       </div>
      </footer>
 
