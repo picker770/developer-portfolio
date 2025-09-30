@@ -301,7 +301,33 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 0 0 0.2rem rgba(137, 137, 190, 0.25);
 }
 
+/* Modal section */
 
+.modal-content {
+    border: none;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    background-color: var(--white);
+}
+
+.modal-header {
+    background-color: var(--light-color);
+    border-bottom: 2px solid var(--primary-color);
+    padding: 1.5rem;
+}
+
+.modal-title {
+    font-family: var(--primary-font);
+    font-weight: 600;
+    color: var(--secondary-color);
+}
+
+.modal-body {
+   padding: 1.5rem;
+}
+
+.modal-body p {
+    color: var(--primary-color);
+}
 
 /* Media Queries */
 
