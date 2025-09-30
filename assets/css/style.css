@@ -224,5 +224,38 @@ h1, h2, h3, h4, h5, h6 {
      transform: translate(-1px);
 }
 
+/* Contact Section  */
+
+#contact {
+    background-color: var(--white);
+    padding: 4rem 0;
+}
+
+#contact h2 {
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--secondary-color);
+}
+
+#contact p {
+    max-width: 700px;
+    margin: 0 auto 2rem;
+    font-size: 1.1rem;
+    color: var(--secondary-color);
+}
+
+#contact .btn-outline-primary {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+    font-family: var(--primary-font);
+    font-weight: 500;
+    margin: 0 10px 15px;
+}
+
+#contact .btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    color: var(--white);
+    transform: translate(-2px);
+}
 
 
