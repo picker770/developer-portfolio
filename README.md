@@ -50,7 +50,7 @@ layout ideas through their online learning management system , where various tut
 
 ## Using Validators
 
-
+Warning: ![alt text](/assets/images/warning.png)
 
 
 
