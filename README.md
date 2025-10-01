@@ -24,6 +24,20 @@ This website is my first milestone project for the CodeInstitute's Full stack we
 - **Git** -- For version control
 - **GitHub Pages** -- For free static Hosting
 
+## Wireframes
+
+### Mobile
+![Mobile Wireframe](/assets/images/wireframe-mobile.png)
+
+### Tablet
+
+![Tablet Wireframe](/assets/images/wireframe-tablet.png)
+
+### Desktop
+
+![Desktop Wireframe](/assets/images/wireframe-desktop.png)
+
+
 ## Credits:
 ### Media/images:
 All images used in this project have been sourced using google search engine and saved on to my local machine and added by renaming them.
