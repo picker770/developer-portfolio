@@ -48,6 +48,11 @@ As a beginner to this web development course, the tutorial provided by the code 
 layout ideas through their online learning management system , where various tutorials and challenges heipled me to complete this project. I have added comments in my index.html and style.css files alongside the url links. Eventually i have edit the code according my site needs.
 
 
+## Using Validators
+
+
+
+
 
 
 
