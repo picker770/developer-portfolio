@@ -54,6 +54,21 @@ Warning: ![alt text](/assets/images/warning.png)
 
 
 
+## Lighthouse Report Screenshots
+
+### Performance
+
+![Performance](/assets/screenshots/performance.png)
+
+### Accessibility
+
+![Accessibility](/assets/screenshots/accessibility.png)
+
+### Best Practices 
+
+![Best Practices](/assets/screenshots/bestpractices.png)
+
+
 
 
 
