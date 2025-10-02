@@ -2,9 +2,9 @@
 
 A clean and responsive portfolio website built with HTML5, CSS3, and Bootstrap , showcasing my skills as a web developer.
 
-## Live Demo
+## Direct link to my Portfolio
 
-**Live URL:** [https://picker770.github.io/developer-portfolio/]
+Check Out my [developer-portfolio](https://picker770.github.io/developer-portfolio/)
 
 ## About the project
 
