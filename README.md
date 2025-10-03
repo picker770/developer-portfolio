@@ -47,14 +47,37 @@ All images used in this project have been sourced using google search engine and
 As a beginner to this web development course, the tutorial provided by the code institute is a really helpful resource. So from the start fo building my portfoio projet i have source the code and the majority 
 layout ideas through their online learning management system , where various tutorials and challenges heipled me to complete this project. I have added comments in my index.html and style.css files alongside the url links. Eventually i have edit the code according my site needs.
 
+### Resources used in project
+
+The following resources were used to support the development of this project:
+
+- [Bootstrap5](https://getbootstrap.com/)- For responsive design and prebuilt components
+- [GoogleFonts](https://fonts.google.com/)- For fonts
+- [Color-Palette](https://coolors.co/)- For generating and selecting the project color palette
+- [Favicon Generator](https://favicon.io/)- To create the site Favicon
+- [CodeInstitute](https://codeinstitute.net/)- For learning materials, guidance , and inspiration
+
+
+
+
+
 
 ## Using Validators
 
+### W3 HTML Validator
+
 Warning: ![alt text](/assets/images/warning.png)
 
+The Above warning is just a reminder that :
+- Each page should have only one h1 heading
+- h1 should be the main heading
+
+### W3 CSS Validator
+
+![css validation screenshot](/assets/screenshots/Screenshot%202025-10-03%20105524.png)
 
 
-## Lighthouse Report Screenshots
+## Automated Lighthouse Testing Report
 
 ### Performance
 
