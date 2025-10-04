@@ -25,7 +25,6 @@ Check Out my [developer-portfolio](https://picker770.github.io/developer-portfol
 - **Git** -- For version control
 - **GitHub Pages** -- For free static Hosting
 
-## How to use my Repo
 
 ## Wireframes
 
