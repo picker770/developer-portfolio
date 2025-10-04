@@ -41,6 +41,12 @@ Check Out my [developer-portfolio](https://picker770.github.io/developer-portfol
 
 ![Desktop Wireframe](/assets/images/wireframe-desktop.png)
 
+# Color Palette used in project
+
+The color scheme for this project was created using [coolers.co](https://coolors.co)
+
+![Color Palette](/assets/screenshots/Screenshot%20color%20palette.png)
+
 ## User Stories:
 
 - As a **recruiter**, I want to quickly view the developer'skills and projects so that i can assess if they are a good fit for a role.
@@ -72,6 +78,37 @@ The following resources were used to support the development of this project:
 - [Visual Studio code](https://code.visualstudio.com/)- As the main integrated development environment
 - [Google Chrome](https://www.google.com/chrome/)- As the primary browser for development and testing
 
+
+# Deployment
+The project is deployed using GitHub pages and can be viewed live at:
+
+https://picker770.github.io/developer-portfolio/
+
+### How to use or deploy this project
+
+This portfolio project is built using HTML5, CSS3, and Bootstrap 5. You can use the code as a reference , customize it for your own portfolio, or deploy it directly.
+
+### Run Locally
+
+1. **Clone the Repository**
+
+    ```bash
+
+    git clone https://github.com/picker770/developer-portfolio.git
+
+    ```
+
+2. Navigate into the project Folder
+
+    ```bash
+
+    cd developer-portfolio
+
+    ```
+
+3. Open the Project
+   - Open index.html in your browser to view the site.
+   - Or open the folder in VS Code and use the Live Server extension.
 
 
 ## Using Validators
@@ -121,3 +158,10 @@ The site has been verified to be fully responsive and functional on major browse
 ### Best Practices
 
 ![Best Practices](/assets/screenshots/bestpractices.png)
+
+## Acknowledgement 
+
+Thank you for taking the time to explore my first milestone project.
+Building this portfolio project has been a valuable learning experience in applying the fundamentals of front-end development - from structuring semantic HTML to styling with CSS and Bootstrap.
+
+I am continuing to grow as a developer and look forward to expanding this portfolio with more advanced features and projects as i progress through the Code Institute Full Stack Web Development diploma.
