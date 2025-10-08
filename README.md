@@ -30,15 +30,15 @@ Check Out my [developer-portfolio](https://picker770.github.io/developer-portfol
 
 ### Mobile
 
-![Mobile Wireframe](/assets/images/wireframe-mobile.png)
+![Mobile Wireframe](/assets/images/wireframe-mobile%20(2).png)
 
 ### Tablet
 
-![Tablet Wireframe](/assets/images/wireframe-tablet.png)
+![Tablet Wireframe](/assets/images/wireframe-tablet%20(2).png)
 
 ### Desktop
 
-![Desktop Wireframe](/assets/images/wireframe-desktop.png)
+![Desktop Wireframe](/assets/images/wireframe-desktop%20(2).png)
 
 # Color Palette used in project
 
