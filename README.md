@@ -158,6 +158,9 @@ The site has been verified to be fully responsive and functional on major browse
 
 ![Best Practices](/assets/screenshots/bestpractices.png)
 
+### updated version of lighthouse report
+![latest](/assets/screenshots/Screenshot%202025-10-08%20latest.png)
+
 ## Acknowledgement 
 
 Thank you for taking the time to explore my first milestone project.
