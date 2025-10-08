@@ -5,9 +5,10 @@
   --french-gray: #c3c3d5;
   --light-blue: #b8dbd9;
   --cool-gray: #8989be;
+  --primary-dark: #3b3b56;
 
   /* Semantic color assignments */
-  --primary-color: var(--cool-gray);
+  --primary-color: var(--primary-dark);
   --secondary-color: var(--black);
   --accent-color: var(--light-blue);
   --light-color: var(--french-gray);
